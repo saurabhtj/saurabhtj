@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saurabhtj/saurabhtj/main/banner.png" width="100%" alt="Saurabh T J Banner">
+  <img src="https://raw.githubusercontent.com/saurabhtj/saurabhtj/main/ChatGPT Image Jul 18, 2026, 12_08_15 AM.png" width="100%" alt="Saurabh T J Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Saurabh T J</h1>
 <h3 align="center">AI & Machine Learning Engineer | Full Stack Developer | Java Developer</h3>
